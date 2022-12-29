@@ -1,0 +1,20 @@
+.background {
+        background-color: rgb(138,43,226);
+}
+
+.titlu {
+        position: relative;
+        text-align: center;
+        margin-top: 0.5em;
+        color: black;
+        font-size: 3em;
+        font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.features {
+        color: black;
+        font-weight: bold;
+        font-size: 20px;
+        margin-top: 60px;
+}
+
